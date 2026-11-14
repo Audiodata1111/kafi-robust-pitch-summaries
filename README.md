@@ -126,4 +126,4 @@ The code is released under the MIT licence; see `LICENSE`. The licence covers th
 
 ## Contact
 
-Pushkal Kumar, Department of Quantitative Economics and Data Science, Birla Institute of Technology Mesra, Ranchi, India. <!-- Add a contact email if you wish. -->
+Pushkal Kumar, Department of Quantitative Economics and Data Science, Birla Institute of Technology Mesra, Ranchi, India. <pushkalkumar0812@gmail.com>
