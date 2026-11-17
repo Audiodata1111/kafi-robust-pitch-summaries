@@ -126,4 +126,3 @@ The code is released under the MIT licence; see `LICENSE`. The licence covers th
 
 ## Contact
 
-Prerna Singh, Department of Quantitative Economics and Data Science, Birla Institute of Technology Mesra, Ranchi, India. <singhprernachhoti@gmail.com>
