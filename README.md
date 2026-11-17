@@ -1,8 +1,6 @@
 # Robust summaries of tonic-normalised pitch events: Raga Kafi case study
 
-R code for the article:
-
-> Singh, P., Chakraborty, S. and Kumar, P. *Robust Summaries of Tonic-Normalised Pitch Events, with an Application to Performance Variation in a Raga Kafi Bandish.* (Submitted.)
+R code for the article: *Robust Summaries of Tonic-Normalised Pitch Events, with an Application to Performance Variation in a Raga Kafi Bandish.* (Submitted.)
 
 The code turns vocal recordings into tonic-normalised note events, computes conventional and robust pitch summaries, studies their sensitivity to octave-tracking errors by Monte Carlo simulation, and carries out the inferential analyses reported in the article.
 
